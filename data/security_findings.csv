@@ -1,0 +1,5 @@
+finding_id,domain,severity,owner,status,due_date,evidence_ready
+F-001,Identity & Access,Critical,Security Engineering,In Progress,2026-10-01,No
+F-002,Network Security,High,Infrastructure,In Progress,2026-10-10,Yes
+F-003,Logging & Monitoring,Medium,SOC,Open,2026-10-20,No
+F-004,Third-Party Access,High,OT Security,In Progress,2026-09-30,Yes
